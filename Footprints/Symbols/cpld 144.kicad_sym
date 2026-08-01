@@ -1155,7 +1155,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -106.68 180)
 				(length 7.62)
 				(name "NC"
@@ -1173,7 +1173,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -104.14 180)
 				(length 7.62)
 				(name "NC"
@@ -1191,7 +1191,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -101.6 180)
 				(length 7.62)
 				(name "NC"
@@ -1209,7 +1209,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -99.06 180)
 				(length 7.62)
 				(name "NC"
@@ -1245,7 +1245,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -93.98 180)
 				(length 7.62)
 				(name "NC"
@@ -1263,7 +1263,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -91.44 180)
 				(length 7.62)
 				(name "NC"
@@ -1281,7 +1281,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -88.9 180)
 				(length 7.62)
 				(name "NC"
@@ -1299,7 +1299,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -86.36 180)
 				(length 7.62)
 				(name "NC"
@@ -1317,7 +1317,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -83.82 180)
 				(length 7.62)
 				(name "NC"
@@ -1335,7 +1335,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -81.28 180)
 				(length 7.62)
 				(name "NC"
@@ -1371,7 +1371,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -76.2 180)
 				(length 7.62)
 				(name "NC"
@@ -1389,7 +1389,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -73.66 180)
 				(length 7.62)
 				(name "NC"
@@ -1407,7 +1407,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -71.12 180)
 				(length 7.62)
 				(name "NC"
@@ -1497,7 +1497,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -58.42 180)
 				(length 7.62)
 				(name "NC"
@@ -1515,7 +1515,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 101.6 -55.88 180)
 				(length 7.62)
 				(name "NC"
