@@ -5,4 +5,5 @@
 	(lib (name "Flash") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/2026-06-13_19-07-49 flash.kicad_sym") (options "") (descr ""))
 	(lib (name "CPLD") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/2026-06-13_10-23-22.kicad_sym") (options "") (descr ""))
 	(lib (name "CPLD 144") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/cpld 144.kicad_sym") (options "") (descr ""))
+	(lib (name "7416254 buffer") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/74 buffer.kicad_sym") (options "") (descr ""))
 )
