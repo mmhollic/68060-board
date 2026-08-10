@@ -8555,6 +8555,244 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Clock:SIT2001BI-S2-33E-50.000000G"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 20.32 10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "SIT2001BI-S2-33E-50.000000G"
+				(at 20.32 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "SOT_SiT1630-S_SIT"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Datasheet" "SIT2001BI-S2-33E-50.000000G"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SIT2001BI-S2-33E-50.000000G"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SOT_SiT1630-S_SIT"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SIT2001BI-S2-33E-50.000000G_0_1"
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 33.02 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 -10.16) (xy 33.02 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_out line
+					(at 0 0 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 7.62)
+					(name "OE/ST/NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 40.64 -5.08 180)
+					(length 7.62)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 40.64 0 180)
+					(length 7.62)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_2Rows-33Pins"
 			(pin_names
 				(offset 1.016)
@@ -23420,6 +23658,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 264.16) (xy 82.55 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edccb4a1-9ad9-473d-b958-bd39476baffc")
+	)
+	(wire
+		(pts
 			(xy 547.37 289.56) (xy 557.53 289.56)
 		)
 		(stroke
@@ -23730,6 +23978,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 269.24) (xy 132.08 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7bb2d2c-74a7-4498-8774-e2cad82d0daa")
+	)
+	(wire
+		(pts
 			(xy 440.69 297.18) (xy 445.77 297.18)
 		)
 		(stroke
@@ -23777,6 +24035,16 @@
 			(type default)
 		)
 		(uuid "f8478b93-9645-44f5-a89d-e568cdd878e0")
+	)
+	(wire
+		(pts
+			(xy 123.19 264.16) (xy 132.08 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8788dea-cff6-4ae6-bc73-34bf6ba51a0e")
 	)
 	(wire
 		(pts
@@ -24367,6 +24635,16 @@
 			(justify left bottom)
 		)
 		(uuid "0a633fab-6468-43b7-bcbf-901e7bbc346c")
+	)
+	(label "GND"
+		(at 74.93 264.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0a63bee1-5740-4917-a597-391e84f37d31")
 	)
 	(label "A13"
 		(at 236.22 128.27 0)
@@ -25027,6 +25305,16 @@
 			(justify left bottom)
 		)
 		(uuid "202c6436-2724-40f3-82a4-0e65f853aba7")
+	)
+	(label "U1B-CLK"
+		(at 132.08 264.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "203b80d8-4281-4eaf-8412-6bb7336694c9")
 	)
 	(label "EXT_D30"
 		(at 557.53 243.84 0)
@@ -27257,6 +27545,16 @@
 			(justify left bottom)
 		)
 		(uuid "75409085-ee86-412d-a7f5-5f8e340177f9")
+	)
+	(label "VCC"
+		(at 132.08 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "757310b4-95cf-4807-9a33-9a9c760689c2")
 	)
 	(label "EXT_D[0..15]"
 		(at 537.21 105.41 0)
@@ -36024,6 +36322,97 @@
 			(project "board"
 				(path "/27e6fb8b-ebcf-4ece-872b-7722c171602a"
 					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Clock:SIT2001BI-S2-33E-50.000000G")
+		(at 82.55 264.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec16b5bc-70bd-49c5-8c1e-3d000f788ae6")
+		(property "Reference" "U12"
+			(at 102.87 254 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "SIT2001BI-S2-33E-50.000000G"
+			(at 102.87 256.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SOT_SiT1630-S_SIT"
+			(at 82.55 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "SIT2001BI-S2-33E-50.000000G"
+			(at 82.55 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "627ce1be-444a-4378-a971-7c16f167f469")
+		)
+		(pin "3"
+			(uuid "19d0198c-0eb1-40eb-9088-590da6ac9683")
+		)
+		(pin "4"
+			(uuid "8c86f867-b68f-4d02-97e4-630a91f0faac")
+		)
+		(pin "5"
+			(uuid "82a4816a-005d-46b4-a911-c4c2b03ce6df")
+		)
+		(pin "2"
+			(uuid "7d9e06f7-017c-4591-895a-c529e89fa4b2")
+		)
+		(instances
+			(project "board"
+				(path "/27e6fb8b-ebcf-4ece-872b-7722c171602a"
+					(reference "U12")
 					(unit 1)
 				)
 			)
