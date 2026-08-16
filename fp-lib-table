@@ -7,4 +7,5 @@
 	(lib (name "cpld 144") (type "KiCad") (uri "${KIPRJMOD}/Footprints/cpld 144.pretty") (options "") (descr ""))
 	(lib (name "74 buffer") (type "KiCad") (uri "${KIPRJMOD}/Footprints/74 buffer.pretty") (options "") (descr ""))
 	(lib (name "Clock") (type "KiCad") (uri "${KIPRJMOD}/Footprints/clock.pretty") (options "") (descr ""))
+	(lib (name "cpld 144pins") (type "KiCad") (uri "${KIPRJMOD}/Footprints/cpld144 pins.pretty") (options "") (descr ""))
 )
