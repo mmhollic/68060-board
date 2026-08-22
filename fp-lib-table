@@ -10,4 +10,5 @@
 	(lib (name "cpld 144pins") (type "KiCad") (uri "${KIPRJMOD}/Footprints/cpld144 pins.pretty") (options "") (descr ""))
 	(lib (name "jtag conn") (type "KiCad") (uri "${KIPRJMOD}/Footprints/jtag.pretty") (options "") (descr ""))
 	(lib (name "jtag vert conn") (type "KiCad") (uri "${KIPRJMOD}/Footprints/jtag vert.pretty") (options "") (descr ""))
+	(lib (name "lattice_x02") (type "KiCad") (uri "${KIPRJMOD}/Footprints/lattice_x02.pretty") (options "") (descr ""))
 )

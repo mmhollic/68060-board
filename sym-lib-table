@@ -10,4 +10,6 @@
 	(lib (name "CPLD 144pins") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/cpld 144 pins.kicad_sym") (options "") (descr ""))
 	(lib (name "jtag conn") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/jtag.kicad_sym") (options "") (descr ""))
 	(lib (name "jtag vert conn") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/jtag vert 2026-08-18_21-09-39.kicad_sym") (options "") (descr ""))
+	(lib (name "lattice") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/lattice.kicad_sym") (options "") (descr ""))
+	(lib (name "lattice_x02") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/lattice_x02.kicad_sym") (options "") (descr ""))
 )
