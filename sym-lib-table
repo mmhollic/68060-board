@@ -12,4 +12,5 @@
 	(lib (name "jtag vert conn") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/jtag vert 2026-08-18_21-09-39.kicad_sym") (options "") (descr ""))
 	(lib (name "lattice") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/lattice.kicad_sym") (options "") (descr ""))
 	(lib (name "lattice_x02") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/lattice_x02.kicad_sym") (options "") (descr ""))
+	(lib (name "i2c_buffer") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/i2c buffer.kicad_sym") (options "") (descr ""))
 )
