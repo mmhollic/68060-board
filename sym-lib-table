@@ -13,4 +13,5 @@
 	(lib (name "lattice") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/lattice.kicad_sym") (options "") (descr ""))
 	(lib (name "lattice_x02") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/lattice_x02.kicad_sym") (options "") (descr ""))
 	(lib (name "i2c_buffer") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/i2c buffer.kicad_sym") (options "") (descr ""))
+	(lib (name "new_sram") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/new sram.kicad_sym") (options "") (descr ""))
 )
