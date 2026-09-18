@@ -1,0 +1,32 @@
+| Net                   | Routed length | Approx one-way flight time |
+| --------------------- | ------------: | -------------------------: |
+| `U1C-TA`              |       26.3 mm |                   ~0.16 ns |
+| `U1C-BG`              |       25.8 mm |                   ~0.16 ns |
+| `U1C-TS`              |       33.4 mm |                   ~0.20 ns |
+| `U1C-RW`              |       40.5 mm |                   ~0.24 ns |
+| `U1B-CLK`             |       78.8 mm |               **~0.47 ns** |
+| CPU data bus          |     96–124 mm |            **~0.6–0.8 ns** |
+| `EPROM_OE`            |        229 mm |                ~1.4–1.5 ns |
+| `/RW` distributed net |        317 mm |                      ~2 ns |
+| longest address line  |       ~343 mm |                **~2.2 ns** |
+
+
+
+Damping priority
+| Priority | Net(s)                                      | Routed length | Likely source                               | Load/topology                          |  Starting resistor |
+| -------- | ------------------------------------------- | ------------: | ------------------------------------------- | -------------------------------------- | -----------------: |
+| **1**    | `/U1B-CLK`                                  |       78.8 mm | **U12 SiT2001 oscillator**, through **R16** | CPU + MachXO2 + header buffer input    |           **22 Ω** |
+| **2**    | `/A7`, `/A8`, `/A9`                         |    327–343 mm | **U1 MC68060**                              | very long, heavily multidrop           |           **33 Ω** |
+| **3**    | `/A2`–`/A6`, `/A10`–`/A16`                  |    294–326 mm | **U1 MC68060**                              | very long, heavily multidrop           |           **33 Ω** |
+| **4**    | `/A17`–`/A22`                               |    272–311 mm | **U1 MC68060**                              | long, multiple memory loads            |           **33 Ω** |
+| **5**    | `/RW`                                       |      316.9 mm | **U2 MachXO2**                              | 2× MRAM, 2× SRAM, 2× 162245 DIR inputs |        **22–33 Ω** |
+| **6**    | `/EPROM_OE`                                 |      228.8 mm | **U2 MachXO2**                              | 2× MRAM OE                             |           **22 Ω** |
+| **7**    | `/EPROM_CS`                                 |      215.1 mm | **U2 MachXO2**                              | 2× MRAM CS                             |           **33 Ω** |
+| **8**    | `/EPROM_BUFFER_OE`                          |      192.2 mm | **U2 MachXO2**                              | four 162245 OE inputs                  |           **22 Ω** |
+| **9**    | `/BS0`–`/BS3`                               |    162–184 mm | **U1 MC68060**                              | memory byte selects                    |           **33 Ω** |
+| **10**   | `/RAM_CS`                                   |      152.3 mm | **U2 MachXO2**                              | 2× SRAM CS                             |           **33 Ω** |
+| **11**   | `/RAM_OE`                                   |      151.3 mm | **U2 MachXO2**                              | 2× SRAM OE                             |           **22 Ω** |
+| **12**   | `/A0`, `/A1`                                |       ~200 mm | **U1 MC68060**                              | MachXO2 + address-buffer input         |           **33 Ω** |
+| **13**   | `/A23`–`/A31`                               |     92–129 mm | **U1 MC68060**                              | MachXO2 + address-buffer input         |        **22–33 Ω** |
+| **Low**  | `/U1C-RW`, `/U1C-TS`, `/U1C-BG`, `/U1C-BGR` |      26–41 mm | CPU/Mach depending signal                   | short point-to-point                   | **none initially** |
+| **Low**  | `/U1C-TA`                                   |       26.3 mm | **U2 MachXO2**                              | CPU only                               |           **none** |

@@ -1,0 +1,100 @@
+{
+  "templateName": "JLC06161H-2116A",
+  "showName": "JLC06161H-2116A",
+  "stencilLayer": 6,
+  "stencilPly": 1.6,
+  "cuprumThickness": 1,
+  "insideCuprumThickness": 0.5,
+  "defaultFlag": false,
+  "expeditedFlag": false,
+  "enableFlag": true,
+  "sort": 6,
+  "fixedFee": 660,
+  "coefficient": 330,
+  "iaminationList": [
+    {
+      "content": "{\u0022LineThickness\u0022:\u00220.035mm\u0022,\u0022LineLayer\u0022:\u0022Top Layer\u0022,\u0022lineMaterialType\u0022:\u0022Copper\u0022}",
+      "contentKey": "impedanceContent_25017e4d0f9e4a9e8ff37b570793e390",
+      "deleteFlag": false,
+      "iaminationType": 1,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 1
+    },
+    {
+      "content": "{\u0022preMaterialType\u0022:\u00222116*1\u0022,\u0022preThickness\u0022:\u00220.11640mm\u0022,\u0022preLayer\u0022:\u0022Prepreg\u0022}",
+      "contentKey": "impedanceContent_a2907ad44715467c90291fa0bea374d8",
+      "deleteFlag": false,
+      "iaminationType": 2,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 2
+    },
+    {
+      "content": "{\u0022coreBoardThickness3\u0022:\u00220.0152mm\u0022,\u0022coreBoardThickness2\u0022:\u00220.13mm\u0022,\u0022coreBoardLayer1\u0022:\u0022Inner Layer L2\u0022,\u0022coreBoardThickness1\u0022:\u00220.0152mm\u0022,\u0022coreBoardRemark\u0022:\u00220.13mm H/HOZ without copper\u0022,\u0022coreBoardMaterialType1\u0022:\u0022Copper\u0022,\u0022coreBoardMaterialType2\u0022:\u0022Core\u0022,\u0022coreBoardMaterialType3\u0022:\u0022Copper\u0022,\u0022coreBoardLayer2\u0022:\u0022Core\u0022,\u0022coreBoardLayer3\u0022:\u0022Inner Layer L3\u0022}",
+      "contentKey": "impedanceContent_0abfb23aafea481e8b1525a2bc924899",
+      "deleteFlag": false,
+      "iaminationType": 3,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 3
+    },
+    {
+      "content": "{\u0022preMaterialType\u0022:\u00222116*1\u0022,\u0022preThickness\u0022:\u00220.11640mm\u0022,\u0022preLayer\u0022:\u0022Prepreg\u0022}",
+      "contentKey": "impedanceContent_eb489846335841e9b4dcd6c0c5379b1d",
+      "deleteFlag": false,
+      "iaminationType": 2,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 4
+    },
+    {
+      "content": "{\u0022preMaterialType\u0022:\u0022\u0022,\u0022preThickness\u0022:\u00220.7mm\u0022,\u0022preLayer\u0022:\u0022Prepreg\u0022}",
+      "contentKey": "impedanceContent_9ebf2bddae2647fbbfdd8740e887a17f",
+      "deleteFlag": false,
+      "iaminationType": 2,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 5
+    },
+    {
+      "content": "{\u0022preMaterialType\u0022:\u00222116*1\u0022,\u0022preThickness\u0022:\u00220.11640mm\u0022,\u0022preLayer\u0022:\u0022Prepreg\u0022}",
+      "contentKey": "impedanceContent_0a8cd1fc0e68455094d293978f63bea2",
+      "deleteFlag": false,
+      "iaminationType": 2,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 6
+    },
+    {
+      "content": "{\u0022coreBoardThickness3\u0022:\u00220.0152mm\u0022,\u0022coreBoardThickness2\u0022:\u00220.13mm\u0022,\u0022coreBoardLayer1\u0022:\u0022Inner Layer L4\u0022,\u0022coreBoardThickness1\u0022:\u00220.0152mm\u0022,\u0022coreBoardRemark\u0022:\u00220.13mm H/HOZ without copper\u0022,\u0022coreBoardMaterialType1\u0022:\u0022Copper\u0022,\u0022coreBoardMaterialType2\u0022:\u0022Core\u0022,\u0022coreBoardMaterialType3\u0022:\u0022Copper\u0022,\u0022coreBoardLayer2\u0022:\u0022Core\u0022,\u0022coreBoardLayer3\u0022:\u0022Inner Layer L5\u0022}",
+      "contentKey": "impedanceContent_b0f9c8dc07da4d358513701c96a505d9",
+      "deleteFlag": false,
+      "iaminationType": 3,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 7
+    },
+    {
+      "content": "{\u0022preMaterialType\u0022:\u00222116*1\u0022,\u0022preThickness\u0022:\u00220.11640mm\u0022,\u0022preLayer\u0022:\u0022Prepreg\u0022}",
+      "contentKey": "impedanceContent_19798b6c746249d5b6752e9af1fe8c86",
+      "deleteFlag": false,
+      "iaminationType": 2,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 8
+    },
+    {
+      "content": "{\u0022LineThickness\u0022:\u00220.035mm\u0022,\u0022LineLayer\u0022:\u0022Bottom Layer\u0022,\u0022lineMaterialType\u0022:\u0022Copper\u0022}",
+      "contentKey": "impedanceContent_595d7c6fd3eb4e2789955f1653b2044b",
+      "deleteFlag": false,
+      "iaminationType": 1,
+      "impedanceIaminationAccessId": null,
+      "impedanceIaminationKeyId": 0,
+      "sort": 9
+    }
+  ],
+  "impedanceTemplateCode": "20221217024151972",
+  "laminationType": 2,
+  "compressionThickness": 1.5564
+}
