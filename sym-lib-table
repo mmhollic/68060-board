@@ -15,4 +15,5 @@
 	(lib (name "i2c_buffer") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/i2c buffer.kicad_sym") (options "") (descr ""))
 	(lib (name "new_sram") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/new sram.kicad_sym") (options "") (descr ""))
 	(lib (name "mram") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/mram.kicad_sym") (options "") (descr ""))
+	(lib (name "psu") (type "KiCad") (uri "${KIPRJMOD}/Footprints/Symbols/psu.kicad_sym") (options "") (descr ""))
 )
