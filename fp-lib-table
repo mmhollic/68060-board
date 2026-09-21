@@ -17,4 +17,5 @@
 	(lib (name "inductor") (type "KiCad") (uri "${KIPRJMOD}/Footprints/inductor.pretty") (options "") (descr ""))
 	(lib (name "psu") (type "KiCad") (uri "${KIPRJMOD}/Footprints/psu.pretty") (options "") (descr ""))
 	(lib (name "leadedind") (type "KiCad") (uri "${KIPRJMOD}/Footprints/leaded ind.pretty") (options "") (descr ""))
+	(lib (name "powerIn") (type "KiCad") (uri "${KIPRJMOD}/Footprints/powerIn.pretty") (options "") (descr ""))
 )
