@@ -45140,7 +45140,7 @@
 		(uuid "0d0dd602-0ff2-4fd3-a946-07cae03cff07")
 	)
 	(label "AR21"
-		(at 407.67 438.15 0)
+		(at 407.67 417.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45278,16 +45278,6 @@
 			(justify left bottom)
 		)
 		(uuid "107a1923-076b-4fbd-aba3-cebf02c8738b")
-	)
-	(label "U1C-TS"
-		(at 407.67 354.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "10d4aaed-20d4-4b0c-bedc-d61620539e46")
 	)
 	(label "PC3"
 		(at 323.85 284.48 0)
@@ -45489,6 +45479,16 @@
 		)
 		(uuid "1542a692-6849-4ceb-8aa9-af555aae85ee")
 	)
+	(label "AR15"
+		(at 407.67 435.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "167dcfa1-acf9-4cdc-a8f0-375c2e89f00f")
+	)
 	(label "D13"
 		(at 370.84 92.71 0)
 		(effects
@@ -45640,7 +45640,7 @@
 		(uuid "17685964-f35f-4b0d-ad4f-09effda92ce4")
 	)
 	(label "U1C-TA"
-		(at 407.67 389.89 0)
+		(at 417.83 354.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46339,6 +46339,16 @@
 		)
 		(uuid "23d17c77-4174-4976-b007-54f5bdca3d2e")
 	)
+	(label "AR14"
+		(at 407.67 438.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "23f2d345-2077-4286-ad7b-fb805f2f733e")
+	)
 	(label "PB1"
 		(at 704.85 425.45 0)
 		(effects
@@ -46448,6 +46458,16 @@
 			(justify left bottom)
 		)
 		(uuid "26f492d1-40d1-4dd1-b4ea-02c2a26bc0d2")
+	)
+	(label "AR13"
+		(at 298.45 435.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "26f8304a-9cc5-476b-b997-78439aa2b3b3")
 	)
 	(label "A14"
 		(at 181.61 73.66 0)
@@ -46778,6 +46798,16 @@
 			(justify left bottom)
 		)
 		(uuid "2ef5d699-a947-4459-9a19-817491b4d10f")
+	)
+	(label "AR20"
+		(at 407.67 422.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2f5e76eb-d8e3-4cd0-8ee2-ceec96f9652a")
 	)
 	(label "SPI-CS-LATCH"
 		(at 711.2 410.21 0)
@@ -47338,6 +47368,16 @@
 			(justify left bottom)
 		)
 		(uuid "3c89f0e7-be5f-45b5-bc32-dbb4d1410f24")
+	)
+	(label "AR19"
+		(at 407.67 425.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3cc31f7c-81de-453c-b01a-f610eb0c9153")
 	)
 	(label "VCC"
 		(at 185.42 193.04 0)
@@ -48488,6 +48528,16 @@
 			(justify left bottom)
 		)
 		(uuid "557968c9-4ba6-4323-bb03-09fa4cd11aeb")
+	)
+	(label "AR17"
+		(at 407.67 430.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "55defdbd-6cd2-40d0-8fb7-798a2866473a")
 	)
 	(label "AR20"
 		(at 541.02 130.81 0)
@@ -49938,16 +49988,6 @@
 			(justify left bottom)
 		)
 		(uuid "74231091-563f-4913-b539-b8778ffdcda5")
-	)
-	(label "EPROM_BUFFER_OE"
-		(at 425.45 417.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7465734f-cfed-4e85-a400-0e58cca949a5")
 	)
 	(label "GND"
 		(at 725.17 269.24 0)
@@ -53859,6 +53899,16 @@
 		)
 		(uuid "c9bdf0f8-932c-4af5-80a4-87bc4a80f2d4")
 	)
+	(label "AR16"
+		(at 407.67 433.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c9f55f7a-aeb5-4733-8e24-b3308e564179")
+	)
 	(label "GND"
 		(at 711.2 340.36 0)
 		(effects
@@ -54509,6 +54559,16 @@
 		)
 		(uuid "d944145d-a9e3-4997-9c85-81ce5e63c505")
 	)
+	(label "AR18"
+		(at 407.67 427.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d982cd86-9bba-4dc5-aa37-f4ea6e3f3a77")
+	)
 	(label "U1C-BGR"
 		(at 311.15 382.27 0)
 		(effects
@@ -54919,16 +54979,6 @@
 		)
 		(uuid "e509636a-7b60-4c39-9142-2d9a892e56d8")
 	)
-	(label "EPROM_OE"
-		(at 425.45 422.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e50e8634-2d21-40e1-ae16-4b7d3d37bd38")
-	)
 	(label "AR15"
 		(at 336.55 187.96 0)
 		(effects
@@ -55060,7 +55110,7 @@
 		(uuid "e7a8626f-6755-45b4-8062-0f15ace1acbe")
 	)
 	(label "AR22"
-		(at 407.67 435.61 0)
+		(at 407.67 412.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55338,16 +55388,6 @@
 			(justify left bottom)
 		)
 		(uuid "ee0841dc-2729-4bb7-9715-984115eb77be")
-	)
-	(label "EPROM_CS"
-		(at 425.45 412.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ee18d1e5-3a95-4084-9a8a-e74897999759")
 	)
 	(label "A5"
 		(at 135.89 304.8 0)
@@ -55938,6 +55978,16 @@
 			(justify left bottom)
 		)
 		(uuid "fa9efaff-163a-471b-a9fa-29b517aa734f")
+	)
+	(label "AR12"
+		(at 298.45 433.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "faa76c13-0740-48a1-af25-71590765e989")
 	)
 	(label "PB5"
 		(at 704.85 440.69 0)
@@ -73807,86 +73857,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 421.64 422.91 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9292139-c799-4686-91a0-42d9aa31d187")
-		(property "Reference" "R61"
-			(at 421.64 416.56 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22R"
-			(at 421.64 419.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 421.64 424.688 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 421.64 422.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 421.64 422.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e0302b07-5865-4e0a-99b3-ed148e248f9f")
-		)
-		(pin "1"
-			(uuid "75c57b6b-145a-4520-a77e-13652359adac")
-		)
-		(instances
-			(project "board"
-				(path "/27e6fb8b-ebcf-4ece-872b-7722c171602a"
-					(reference "R61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 199.39 88.9 270)
 		(mirror x)
 		(unit 1)
@@ -76693,86 +76663,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 421.64 412.75 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "efd6358e-93ec-4560-b82a-00a7b1c597b8")
-		(property "Reference" "R58"
-			(at 421.64 406.4 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33R"
-			(at 421.64 408.94 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 421.64 414.528 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 421.64 412.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 421.64 412.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d628191a-1f17-473d-a1ae-0af2660d4c5f")
-		)
-		(pin "1"
-			(uuid "5e209c74-ea7e-4a6f-a795-7278d0f42e8b")
-		)
-		(instances
-			(project "board"
-				(path "/27e6fb8b-ebcf-4ece-872b-7722c171602a"
-					(reference "R58")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 120.65 335.28 90)
 		(unit 1)
 		(body_style 1)
@@ -76928,86 +76818,6 @@
 			(project "board"
 				(path "/27e6fb8b-ebcf-4ece-872b-7722c171602a"
 					(reference "C24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 421.64 417.83 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f32afcfc-38d1-4d3a-a94d-3a89e047b6d9")
-		(property "Reference" "R60"
-			(at 421.64 411.48 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22R"
-			(at 421.64 414.02 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 421.64 419.608 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 421.64 417.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 421.64 417.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "075727f1-9515-43db-b7e1-dc1f44f1ee58")
-		)
-		(pin "1"
-			(uuid "fd0abec1-7888-4457-bc14-e36c44233b3b")
-		)
-		(instances
-			(project "board"
-				(path "/27e6fb8b-ebcf-4ece-872b-7722c171602a"
-					(reference "R60")
 					(unit 1)
 				)
 			)
